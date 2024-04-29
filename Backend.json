@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
-    "price": 1200
+    "itemGrants": ["AthenaDance:EID_TakeTheL"],
+    "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_Laugh"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
-    "price": 1200
+    "itemGrants": ["AthenaBackpack:BID_004_BlackKnight"],
+    "price": 500
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaItemWrap:Wrap_182_NeonAnimal"],
+    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_TaiChi"],
+    "itemGrants": ["AthenaBackpack:BID_273_AssassinSuitCoin"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
+    "price": 1000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_423_Athena_Commando_F_Painter"],
-    "price": 1500
+    "itemGrants": ["AthenaBackpack:BID_468_Cyclone"],
+    "price": 0
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_BasketballV2"],
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
     "price": 500
   }
 }
