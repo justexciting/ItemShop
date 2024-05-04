@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_620_Athena_Commando_L_BigChuggus"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_084_Athena_Commando_M_Assassin"],
+    "price": 1000
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_TakeTheL"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_128_FragmentedGlowEclipse"],
-    "price": 400
+    "itemGrants": ["AthenaDance:EID_Laugh"],
+    "price": 500
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark","AthenaBackpack:BID_489_TwinDark"],
-    "price": 1200
+    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
+    "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_142_TeriyakiFish"],
+    "itemGrants": ["AthenaBackpack:BID_273_AssassinSuitCoin"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Griddle_Beyond"],
-    "price": 0
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaBackpack:BID_468_Cyclone"],
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
     "price": 0
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace","AthenaBackpack:BID_520_CycloneUniverse"],
+    "itemGrants": ["AthenaDance:EID_Cyclone"],
     "price": 0
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_359_CycloneMale"],
+    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
     "price": 0
    }
 }
